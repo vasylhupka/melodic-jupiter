@@ -65,7 +65,7 @@ sections:
         style: secondary
   - section_id: features-two-col
     type: section_grid
-    title: s
+    title: Інші твори
     subtitle: An optional subtitle of the section
     col_number: two
     grid_items:
