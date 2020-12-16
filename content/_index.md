@@ -11,10 +11,7 @@ sections:
 
 
       > Справжнього побачу, якщо побачу його думку.
-    actions:
-      - label: Go
-        url: /docs
-        style: primary
+    actions: []
   - section_id: features
     type: section_grid
     col_number: three
