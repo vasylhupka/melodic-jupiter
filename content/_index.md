@@ -35,9 +35,11 @@ sections:
             style: link
       - title: Сад божественних пісень
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          Твори, з яких складається «Сад божественних пісень», можна назвати
+          лірико-філософським щоденником, на сторінках якого відобразилися
+          роздуми, настрій, релігійний досвід та прагнення Григорія Сковороди.
+          Філософ зауважував, що його «Сад» проріс із того зернятка, що посіяно
+          Священним Писанням.
         actions:
           - label: Learn More
             url: /style-guide
