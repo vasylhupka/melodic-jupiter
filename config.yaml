@@ -68,7 +68,7 @@ params:
       - label: Twitter
         url: 'https://twitter.com/'
         style: icon
-        icon_class: fa-twitter
+        icon_class: fa-facebook
         new_window: true
       - label: LinkedIn
         url: 'https://www.linkedin.com/'
