@@ -98,6 +98,16 @@ sections:
           - label: Читати
             url: /showcase
             style: link
+  - title: Відео
+    section_id: lorem-ipsum
+    image_position: left
+    content: >-
+      <iframe width="848" height="636"
+      src="https://www.youtube.com/embed/72r0Rokk1qI" frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+      gyroscope; picture-in-picture" allowfullscreen></iframe>
+    actions: []
+    type: section_content
   - section_id: cta
     type: section_cta
     title: ' «Світ ловив мене, та не спіймав»'
@@ -109,16 +119,6 @@ sections:
         icon_class: lorem-ipsum
         new_window: false
         type: action
-  - title: Відео
-    section_id: lorem-ipsum
-    image_position: left
-    content: >-
-      <iframe width="848" height="636"
-      src="https://www.youtube.com/embed/72r0Rokk1qI" frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-      gyroscope; picture-in-picture" allowfullscreen></iframe>
-    actions: []
-    type: section_content
   - section_id: text-no-img
     type: section_content
     title: Сад божественних пісень. Пісня 3-тя
