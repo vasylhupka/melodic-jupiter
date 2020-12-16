@@ -1,5 +1,5 @@
 ---
-title: Welcome to Libris
+title: 'Життя Григорія Сковороди '
 layout: docs
 ---
 https://chtyvo.org.ua/authors/Skovoroda/
