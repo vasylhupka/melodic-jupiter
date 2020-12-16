@@ -143,5 +143,11 @@ sections:
       - label: Більше
         url: /docs/getting-started/installation
         style: primary
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    grid_items: []
+    type: section_grid
 layout: advanced
 ---
