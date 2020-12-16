@@ -45,7 +45,7 @@ sections:
           Філософ зауважував, що його «Сад» проріс із того зернятка, що посіяно
           Священним Писанням.
         actions:
-          - label: Learn More
+          - label: Читати
             url: /style-guide
             style: link
   - section_id: text-img
