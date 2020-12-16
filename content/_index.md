@@ -89,7 +89,7 @@ sections:
     actions:
       - label: Більше
         url: lorem-ipsum
-        style: link
+        style: primary
         icon_class: lorem-ipsum
         new_window: false
         type: action
