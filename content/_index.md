@@ -100,7 +100,7 @@ sections:
         type: action
   - section_id: text-no-img
     type: section_content
-    title: Сад божественних пісень. ПІСНЯ 3-тя
+    title: Сад божественних пісень. Піся3-тя
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
