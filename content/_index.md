@@ -24,7 +24,7 @@ sections:
 
           Твір належить до серії діалогів про душевний світ.
         actions:
-          - label: Get Started
+          - label: Читати
             url: /docs
             style: link
       - title: 'Книжечка про читання Святого Письма, названа жінка Лотова'
