@@ -24,7 +24,7 @@ params:
     title: Ріки води живої потечуть...
     has_nav: true
     nav_links:
-      - label: Home
+      - label: Головна
         url: /
         style: link
         has_subnav: false
