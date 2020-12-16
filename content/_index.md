@@ -16,7 +16,7 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title: 'Наркіс. Розмова про те: Пізнай себе'
+      - title: 'Книжечка про читання Святого Письма, названа жінка Лотова'
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
