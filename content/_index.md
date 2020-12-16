@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Сторінка про життя і творчість  Григорія Сковороди
-    image: images/rv.png
+    image: images/rv bg.png
     content: >-
       Цей любитель священної Біблії через свої діалоги й трактати подає нам
       роз'яснення Святого Письма, розуміння Бога, Всесвіту, Людини.
