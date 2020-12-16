@@ -48,9 +48,8 @@ sections:
     image_position: left
     title: 'Життя Григорія Сковороди   '
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      Біографії Г. Сковороди написав його друг і улюблений учень Михайло
+      Ковалинський, на якого падали іскри духовних щедрот Григорія Сковороди. 
     actions:
       - label: View Demo
         url: /docs/getting-started
