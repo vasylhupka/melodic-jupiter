@@ -146,7 +146,7 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
-    col_number: three
+    col_number: two
     grid_items:
       - title: lorem-ipsum
         title_url: lorem-ipsum
