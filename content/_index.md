@@ -35,8 +35,8 @@ sections:
             style: link
       - title: 'Книжечка про читання Святого Письма, названа жінка Лотова'
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Трактат присвячений проблемі алегоричного тлумачення Біблії. Її образи
+          й фігури, на думку автора, утворюють особливий символічний світ. 
         actions:
           - label: View Posts
             url: /blog
