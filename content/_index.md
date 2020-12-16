@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Сторінка присвячена життю і творчості  Григорія Сковороди
+    title: Сторінка про життю і творчості  Григорія Сковороди
     image: images/rv.png
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
