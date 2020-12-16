@@ -137,16 +137,9 @@ sections:
     section_id: lorem-ipsum
     image_position: left
     content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      [![Everything Is
+      AWESOME](https://img.youtube.com/vi/72r0Rokk1qI/0.jpg)](https://www.youtube.com/watch?v=72r0Rokk1qI
+      "Everything Is AWESOME")
     actions: []
     type: section_content
 layout: advanced
