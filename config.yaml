@@ -56,6 +56,7 @@ params:
         style: primary
         has_subnav: false
     url: ''
+    logo_img: images/Feather-Quill-And-Inkwell-Silhouette.svg
   footer:
     content: '&copy; Stackbit-Libris. All rights reserved.'
     links:
