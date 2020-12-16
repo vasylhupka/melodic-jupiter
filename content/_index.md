@@ -95,7 +95,7 @@ sections:
           препростий" — це назва одного із списків "Розмови...". Вперше був
           надрукований Д. Багалієм у виданні 1894 р.
         actions:
-          - label: Learn More
+          - label: Читати
             url: /showcase
             style: link
   - section_id: cta
