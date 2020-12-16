@@ -55,7 +55,6 @@ params:
         url: 'https://github.com/'
         style: primary
         has_subnav: false
-    logo_img: images/Feather-Quill-And-Inkwell-Silhouette.svg
     url: Ріки води живої потечуть...
   footer:
     content: '&copy; Stackbit-Libris. All rights reserved.'
