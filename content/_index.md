@@ -66,7 +66,7 @@ sections:
   - section_id: features-two-col
     type: section_grid
     title: Інші твори
-    subtitle: ''
+    subtitle: '***'
     col_number: two
     grid_items:
       - title: Вступні двері до християнської добронравності
