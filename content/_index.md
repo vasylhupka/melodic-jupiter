@@ -10,13 +10,7 @@ sections:
 
 
       > "Справжнього побачу, якщо побачу його думку"
-    actions:
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: link
-        icon_class: lorem-ipsum
-        new_window: false
-        type: action
+    actions: []
     image: images/rv9.png
   - section_id: features
     type: section_grid
