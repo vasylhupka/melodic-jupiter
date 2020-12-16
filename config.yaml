@@ -51,7 +51,7 @@ params:
         url: /style-guide
         style: link
         has_subnav: false
-      - label: GitHub
+      - label: Допомога
         url: 'https://github.com/'
         style: primary
         has_subnav: false
