@@ -119,7 +119,7 @@ sections:
       Я нічого не боюсь, лиш гріха я стережусь, <br />
       В мені вбий усякий гріх — це є ключ моїх утіх! <br />
     actions:
-      - label: <skmit
+      - label: Більше
         url: /docs/getting-started/installation
         style: primary
 layout: advanced
