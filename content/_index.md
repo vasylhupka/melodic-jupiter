@@ -25,7 +25,7 @@ sections:
           - label: Get Started
             url: /docs
             style: link
-      - title: Blog
+      - title: 'Книжечка про читання Святого Письма, названа жінка Лотова'
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
