@@ -22,7 +22,6 @@ params:
         accent2: '#4a00e0'
   header:
     title: Libris
-    logo_img: images/logo.svg
     has_nav: true
     nav_links:
       - label: Home
@@ -56,6 +55,8 @@ params:
         url: 'https://github.com/'
         style: primary
         has_subnav: false
+    logo_img: images/Feather-Quill-And-Inkwell-Silhouette.svg
+    url: Ріки води живої потечуть...
   footer:
     content: '&copy; Stackbit-Libris. All rights reserved.'
     links:
