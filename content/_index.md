@@ -80,9 +80,13 @@ sections:
             style: link
       - title: Розмова п'яти подорожніх про істинне щастя в житті
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          Твір написано, як гадають, у 70-х роках, можливо, у 1773 р. Належить
+          до циклу творів про душевний мир. Автограф твору не зберігся, відомий
+          він за списками кінця XVIII — початку XIX ст. під різними назвами:
+          "Дружня розмова про душевний мир", "Розмова про душевний мир" і т. п.
+          Списків відомо шість. Дослідники припускають, що діалог "Марко
+          препростий" — це назва одного із списків "Розмови...". Вперше був
+          надрукований Д. Багалієм у виданні 1894 р.
         actions:
           - label: Learn More
             url: /showcase
