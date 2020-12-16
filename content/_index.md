@@ -6,8 +6,8 @@ sections:
     title: Сторінка про життя і творчость  Григорія Сковороди
     image: images/rv.png
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Цей "любитель священної Біблії" через свої діалоги й трактати дається
+      роз'яснення Святого Письма, розуміння Бога, Всесвіту, Людини.
     actions:
       - label: Get Started
         url: /docs
