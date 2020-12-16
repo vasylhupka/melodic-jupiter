@@ -65,7 +65,7 @@ params:
         new_window: true
     has_social: true
     social_links:
-      - label: Twitter
+      - label: facebook
         url: 'https://twitter.com/'
         style: icon
         icon_class: fa-facebook
