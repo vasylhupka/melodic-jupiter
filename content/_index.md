@@ -34,7 +34,7 @@ sections:
 
           У трактаті розкриваються згубні наслідки буквального розуміння Біблії.
         actions:
-          - label: View Posts
+          - label: Читати
             url: /blog
             style: link
       - title: Сад божественних пісень
