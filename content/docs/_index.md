@@ -2,12 +2,7 @@
 title: Welcome to Libris
 layout: docs
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.
-
-***
-
-Sed vel arcu ac ante blandit ultricies quis eget justo. Donec et https://chtyvo.org.ua/authors/Skovoroda/
+https://chtyvo.org.ua/authors/Skovoroda/
 
 lacinia sapien, sit amet tempus ligula. Fusce et sagittis massa. Fusce mollis mollis dui eget sagittis. Suspendisse id nunc mauris.
 
