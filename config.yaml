@@ -71,7 +71,7 @@ params:
         icon_class: fa-facebook
         new_window: true
       - label: Youtube
-        url: 'https://www.linkedin.com/'
+        url: ''
         style: icon
         icon_class: fa-linkedin
         new_window: true
