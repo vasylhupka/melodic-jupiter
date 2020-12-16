@@ -85,7 +85,7 @@ sections:
   - section_id: cta
     type: section_cta
     title: ' «Світ ловив мене, та не спіймав»'
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Григорій Сковорода
     actions: []
   - section_id: text-no-img
     type: section_content
