@@ -70,7 +70,7 @@ params:
         style: icon
         icon_class: fa-facebook
         new_window: true
-      - label: Yo
+      - label: Yotube
         url: 'https://www.linkedin.com/'
         style: icon
         icon_class: fa-linkedin
