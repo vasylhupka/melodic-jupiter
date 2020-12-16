@@ -28,7 +28,7 @@ params:
         url: /
         style: link
         has_subnav: false
-      - label: Docs
+      - label: Твори
         url: /docs
         style: link
         has_subnav: false
