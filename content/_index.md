@@ -133,5 +133,11 @@ sections:
       - label: Більше
         url: /docs/getting-started/installation
         style: primary
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
 layout: advanced
 ---
