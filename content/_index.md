@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Сторінка присвячена '
+    title: Сторінка присвячена життю і
     image: images/rv.png
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
