@@ -93,6 +93,12 @@ sections:
         icon_class: lorem-ipsum
         new_window: false
         type: action
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
   - section_id: text-no-img
     type: section_content
     title: A Section Without Image
