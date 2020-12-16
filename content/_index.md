@@ -12,7 +12,7 @@ sections:
 
       > Справжнього побачу, якщо побачу його думку.
     actions:
-      - label: 'Справжнього Єремію побачу, якщо побачу його думку.'
+      - label: Go
         url: /docs
         style: primary
   - section_id: features
