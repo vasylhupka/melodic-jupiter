@@ -1,5 +1,5 @@
 ---
-title: 'Життя Григорія Сковороди '
+title: Життя Григорія Сковороди  1794
 layout: docs
 ---
 https://chtyvo.org.ua/authors/Skovoroda/
