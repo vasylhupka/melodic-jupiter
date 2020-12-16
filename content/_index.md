@@ -3,15 +3,15 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Hero Section4
+    title: Сторінка про життя і творчість  Григорія Сковороди
     image: images/rv.png
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
-    actions:
-      - label: Get Started
-        url: /docs
-        style: primary
+      Цей любитель священної Біблії через свої діалоги й трактати подає нам
+      роз'яснення Святого Письма, розуміння Бога, Всесвіту, Людини.
+
+
+      > "Справжнього побачу, якщо побачу його думку"
+    actions: []
   - section_id: features
     type: section_grid
     col_number: three
