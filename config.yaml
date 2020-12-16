@@ -57,7 +57,7 @@ params:
         has_subnav: false
     url: ''
   footer:
-    content: 2020 &copy; Stackbit-Libris. All rights reserved.
+    content: 2020 &copy; Сторінка присвячена життю і творчості Григорія Сковороди
     links:
       - label: Made with Stackbit
         url: 'https://www.stackbit.com'
