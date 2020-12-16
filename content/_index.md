@@ -54,7 +54,7 @@ sections:
       - label: Читати біографію
         url: /docs/getting-started
         style: primary
-      - label: Get Started
+      - label: М. Ковалинський
         url: /docs/getting-started
         style: secondary
   - section_id: features-two-col
