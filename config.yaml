@@ -55,7 +55,7 @@ params:
         url: 'https://github.com/'
         style: primary
         has_subnav: false
-    url: Ріки води живої потечуть...
+    url: ''
   footer:
     content: '&copy; Stackbit-Libris. All rights reserved.'
     links:
