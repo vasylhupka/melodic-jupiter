@@ -87,7 +87,7 @@ sections:
     title: ' «Світ ловив мене, та не спіймав»'
     subtitle: Григорій Сковорода
     actions:
-      - label: lorem-ipsum
+      - label: Більше
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
