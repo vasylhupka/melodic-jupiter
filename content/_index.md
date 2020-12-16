@@ -133,7 +133,7 @@ sections:
       - label: Більше
         url: /docs/getting-started/installation
         style: primary
-  - title: Ds
+  - title: Відео
     section_id: lorem-ipsum
     image_position: left
     content: >-
