@@ -11,7 +11,7 @@ sections:
 
       > "Справжнього побачу, якщо побачу його думку"
     actions: []
-    image: images/rv8.png
+    image: images/rv9.png
   - section_id: features
     type: section_grid
     col_number: three
