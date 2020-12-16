@@ -2,7 +2,7 @@ title: Stackbit Libris Theme
 baseURL: /
 params:
   description: A documentation theme
-  palette: navy
+  palette: violet
   palettes:
     blue:
       sass:
