@@ -69,7 +69,7 @@ sections:
     subtitle: An optional subtitle of the section
     col_number: two
     grid_items:
-      - title: Overview
+      - title: Вступні двері до християнської добронравності
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
