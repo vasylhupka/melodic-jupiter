@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Сторінка про життя і творчость  Григорія Сковороди
+    title: Сторінка про життя і творчість  Григорія Сковороди
     image: images/rv.png
     content: >-
       Цей любитель священної Біблії через свої діалоги й трактати дається
