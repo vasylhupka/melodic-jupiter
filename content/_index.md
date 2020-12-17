@@ -102,7 +102,7 @@ sections:
     section_id: lorem-ipsum
     image_position: left
     content: >-
-      <iframe width="848" height="636"
+      <iframe width="848" height="36"
       src="https://www.youtube.com/embed/72r0Rokk1qI" frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media;
       gyroscope; picture-in-picture" allowfullscreen></iframe>
