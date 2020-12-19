@@ -2,6 +2,7 @@
 title: Життя Григорія Сковороди
 layout: docs
 ---
+
 Написане 1794 року на давній смак
 Non  omnis  moriar,
 (Horatius)1
