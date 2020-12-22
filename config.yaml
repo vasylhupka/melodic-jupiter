@@ -2,7 +2,7 @@ title: Ріки води живої потечуть...
 baseURL: /
 params:
   description: Сторінка присвячена життю і творчості Григорія Сковороди
-  palette: navy
+  palette: blue
   palettes:
     blue:
       sass:
